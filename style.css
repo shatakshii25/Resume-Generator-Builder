@@ -1,0 +1,31 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s li near;
+    line-height: 1.5;
+}
+ */
+
+#cv-form{
+    /* display: none; */
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
